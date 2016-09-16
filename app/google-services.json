@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7387492479",
+    "project_id": "diesel-ellipse-143519"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7387492479:android:615810eea63ada8d",
+        "android_client_info": {
+          "package_name": "com.gradespace.tweak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7387492479-7qau7qjhdol9a2j22rsjemn2tftmovu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gradespace.tweak",
+            "certificate_hash": "543A44D6ACE07CB637A0EA425571C1E9BF101268"
+          }
+        },
+        {
+          "client_id": "7387492479-cnspi6nckfakmn5d3jjfjfmgku5pnpql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3LRNVA-imW9HtidkUF9-RrkQVKvz4K18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
